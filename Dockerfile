@@ -1,3 +1,4 @@
+# This file was created by plausible analytics team and downloader from https://github.com/plausible/analytics/blob/master/Dockerfile
 # we can not use the pre-built tar because the distribution is
 # platform specific, it makes sense to build it in the docker
 
